@@ -73,7 +73,4 @@ I'm always happy to collaborate or chat about new ideas!
 
 ---
 
-📍 *“A good README helps your project stand out and motivates other developers to contribute”*【879284741141476†L57-L60】  
-🛠️ *“Clearly explain the what, why and how of your work for visitors”*【879284741141476†L100-L116】
-
 🌟 **From [Ashraf Khder](https://github.com/ashraf1232fasd)**
